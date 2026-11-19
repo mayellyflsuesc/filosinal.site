@@ -2,9 +2,9 @@ FILOSINAL — roteiro em português para tradução e validação humana em Libr
 
 Grave 9:16; enquadre rosto, tronco e mãos. Identifique as alternativas na ordem A, B, C e D. Nomeie arquivos conforme os códigos.
 
-duel-instrucoes: Escolha tema e nível, leia ou assista, responda no seu ritmo.
+duel-instrucoes: Escolha tema e nível, incluindo Especialista. Leia ou assista e responda no seu ritmo.
 
-memory-instrucoes: Selecione um pensador e uma ideia; procure seis pares.
+memory-instrucoes: Selecione um pensador e uma descrição de sua posição filosófica; encontre oito pares. Você pode consultar a interpretação de cada carta. O placar considera os pares não envolvidos em erros.
 
 resultado: Parabéns por concluir a atividade. Consulte explicações e continue explorando.
 
@@ -176,15 +176,15 @@ Apoio: É possível discordar de uma parte da tese e continuar pensando racional
 
 l04-explicacao: Resposta: Falso dilema.. O falso dilema apresenta opções como se fossem exaustivas sem demonstrar que não existem alternativas intermediárias ou diferentes.
 
-t01-pergunta: Organize do mais antigo ao mais recente: Sócrates — diálogo e exame de crenças | Platão — teoria das formas e educação | Aristóteles — ética da virtude | Descartes — dúvida metódica
+t01-pergunta: Organize do mais antigo ao mais recente: Platão — teoria das formas e educação | Aristóteles — ética da virtude | Descartes — dúvida metódica | Sócrates — diálogo e exame de crenças (ordem não cronológica; não sinalizar por posição).
 
 t01-explicacao: Sócrates — diálogo e exame de crenças → Platão — teoria das formas e educação → Aristóteles — ética da virtude → Descartes — dúvida metódica. Sócrates influenciou Platão, que foi professor de Aristóteles. Descartes viveu na Europa moderna, muito depois da filosofia grega clássica.
 
-t02-pergunta: Organize do mais antigo ao mais recente: Hume publica Investigação sobre o entendimento humano | Kant publica Fundamentação da metafísica dos costumes | Mill publica Utilitarismo em revista | Beauvoir publica O segundo sexo
+t02-pergunta: Organize do mais antigo ao mais recente: Kant publica Fundamentação da metafísica dos costumes | Mill publica Utilitarismo em revista | Beauvoir publica O segundo sexo | Hume publica Investigação sobre o entendimento humano (ordem não cronológica; não sinalizar por posição).
 
 t02-explicacao: Hume publica Investigação sobre o entendimento humano → Kant publica Fundamentação da metafísica dos costumes → Mill publica Utilitarismo em revista → Beauvoir publica O segundo sexo. Os textos discutem conhecimento, dever, consequências e condições sociais da liberdade em momentos históricos diferentes.
 
-t03-pergunta: Organize do mais antigo ao mais recente: Rawls publica Uma teoria da justiça | Foucault publica Vigiar e punir | Gonzalez publica A categoria político-cultural de amefricanidade | Krenak publica Ideias para adiar o fim do mundo
+t03-pergunta: Organize do mais antigo ao mais recente: Foucault publica Vigiar e punir | Gonzalez publica A categoria político-cultural de amefricanidade | Krenak publica Ideias para adiar o fim do mundo | Rawls publica Uma teoria da justiça (ordem não cronológica; não sinalizar por posição).
 
 t03-explicacao: Rawls publica Uma teoria da justiça → Foucault publica Vigiar e punir → Gonzalez publica A categoria político-cultural de amefricanidade → Krenak publica Ideias para adiar o fim do mundo. A filosofia contemporânea inclui debates sobre justiça distributiva, disciplina, colonialidade e relações com a natureza.
 
@@ -303,3 +303,193 @@ term-utilitarismo: Utilitarismo. Ética. Família de teorias que avalia ações 
 term-premissa: Premissa. Lógica. Proposição usada como razão em um argumento.. Todo quadrado tem quatro lados.
 
 term-imperativo: Imperativo categórico. Ética. Princípio kantiano que exige testar máximas independentemente de interesses particulares.. Uma regra de enganar poderia ser universalizada?
+
+NOVAS QUESTÕES — NÍVEL ESPECIALISTA
+
+q17-pergunta: Duas teorias incompatíveis explicam todas as observações disponíveis. O que é possível concluir?
+Alternativas: A. Ambas são verdadeiras, pois explicam os dados. | B. A primeira proposta merece preferência por ser mais antiga. | C. Os dados podem ser insuficientes para escolher uma teoria; são necessários outros critérios ou testes. | D. A evidência empírica não contribui para avaliar teorias.
+Apoio: Distingua compatibilidade com dados de exclusividade explicativa.
+
+q17-explicacao: Resposta: Os dados podem ser insuficientes para escolher uma teoria; são necessários outros critérios ou testes.. A subdeterminação mostra que evidências disponíveis podem ser compatíveis com hipóteses rivais. Isso não torna todas verdadeiras.
+
+q18-pergunta: Uma testemunha normalmente confiável transmite uma notícia. Existe uma evidência relevante contra a notícia, mas você não a conhece. Qual problema epistemológico se destaca?
+Alternativas: A. O papel de evidências derrotadoras na justificação de crenças. | B. A impossibilidade de conhecimento por testemunho. | C. A superioridade necessária da dedução sobre a indução. | D. A distinção entre verdades analíticas e sintéticas.
+Apoio: O que pode enfraquecer a razão de acreditar?
+
+q18-explicacao: Resposta: O papel de evidências derrotadoras na justificação de crenças.. Uma evidência derrotadora pode enfraquecer a justificação de uma crença, mesmo quando sua fonte costuma ser confiável.
+
+q19-pergunta: Uma pesquisadora prometeu sigilo, mas divulgar dados pode beneficiar a maioria. Qual comparação entre Kant e o utilitarismo de atos é mais precisa?
+Alternativas: A. Ambos autorizam a quebra de sigilo quando há benefício coletivo. | B. Kant avalia somente intenções; utilitaristas nunca consideram confiança. | C. Kant se preocupa só com resultados; utilitaristas só com promessas. | D. Kant examina deveres e autonomia; o utilitarismo compara consequências, inclusive danos à confiança.
+Apoio: Compare os critérios, não decisões garantidas.
+
+q19-explicacao: Resposta: Kant examina deveres e autonomia; o utilitarismo compara consequências, inclusive danos à confiança.. O contraste é entre critérios deontológicos e consequencialistas. Utilitaristas também podem rejeitar a quebra de sigilo quando os danos superam benefícios.
+
+q20-pergunta: Uma política aumenta a renda dos mais pobres, mas restringe liberdades políticas básicas de um grupo. Segundo Rawls, qual avaliação é adequada?
+Alternativas: A. O princípio da diferença autoriza trocar liberdade por renda. | B. O ganho econômico não basta para sacrificar liberdades básicas iguais. | C. A aprovação da maioria resolve o conflito entre princípios. | D. A distribuição econômica nunca é relevante para a justiça.
+Apoio: Os princípios têm uma ordem de prioridade.
+
+q20-explicacao: Resposta: O ganho econômico não basta para sacrificar liberdades básicas iguais.. Rawls atribui prioridade às liberdades básicas iguais. O princípio da diferença funciona dentro das exigências anteriores de justiça.
+
+q21-pergunta: Uma pessoa trata expectativas sociais sobre seu papel como naturais e inevitáveis. Qual comparação entre Beauvoir e Sartre evita simplificações?
+Alternativas: A. Ambos consideram os papéis sociais uma consequência inevitável da biologia. | B. Sartre nega toda restrição social; Beauvoir nega toda liberdade. | C. Ambos questionam a naturalização de papéis; Beauvoir destaca condições concretas de opressão. | D. Ambos defendem que todas as pessoas possuem as mesmas oportunidades.
+Apoio: Compare liberdade e condições sociais.
+
+q21-explicacao: Resposta: Ambos questionam a naturalização de papéis; Beauvoir destaca condições concretas de opressão.. A liberdade existencial é situada. Beauvoir examina como a opressão estrutura possibilidades concretas de existência.
+
+q22-pergunta: Todo projeto acessível oferece alternativas de comunicação. Este projeto oferece alternativas. Logo, é acessível. Qual avaliação é mais rigorosa?
+Alternativas: A. Válido porque ambas as premissas são afirmativas. | B. Inválido: uma condição necessária foi tratada como suficiente. | C. Válido por modus ponens se a segunda premissa for verdadeira. | D. Inválido porque acessibilidade não admite raciocínio dedutivo.
+Apoio: Imagine um projeto com alternativas e outras barreiras.
+
+q22-explicacao: Resposta: Inválido: uma condição necessária foi tratada como suficiente.. De P implica Q e Q não se conclui necessariamente P: trata-se da afirmação do consequente.
+
+q23-pergunta: Uma estudante surda apresenta um relato pertinente, mas recebe menos credibilidade exclusivamente por preconceito contra sua forma de comunicação. Que conceito melhor descreve o caso?
+Alternativas: A. Injustiça testemunhal. | B. Injustiça hermenêutica, necessariamente. | C. Ceticismo metodológico. | D. Desacordo racional entre interlocutores.
+Apoio: A barreira está na credibilidade ou nos conceitos disponíveis?
+
+q23-explicacao: Resposta: Injustiça testemunhal.. Injustiça testemunhal é um déficit de credibilidade provocado por preconceito. Injustiça hermenêutica envolve lacunas estruturais nos recursos coletivos de interpretação.
+
+q24-pergunta: Dois objetos fisicamente idênticos são apresentados como utensílio e como obra de arte. O que o exemplo permite investigar?
+Alternativas: A. A necessidade de toda arte provocar prazer visual. | B. Uma propriedade física única que define a arte. | C. A impossibilidade de qualquer distinção artística racional. | D. A relevância de contexto, interpretação e práticas artísticas.
+Apoio: A aparência não mudou; o que mudou?
+
+q24-explicacao: Resposta: A relevância de contexto, interpretação e práticas artísticas.. O caso questiona critérios apenas perceptivos e permite discutir abordagens contextuais e institucionais da arte.
+
+q25-pergunta: Uma melhora no desempenho ocorre após uma intervenção educativa. Qual conclusão combina a crítica de Hume com investigação causal cuidadosa?
+Alternativas: A. A ordem temporal prova conexão causal necessária. | B. A regularidade é evidência relevante, mas explicações alternativas precisam ser examinadas. | C. A ausência de certeza absoluta torna qualquer hipótese inútil. | D. A causalidade só pode ser conhecida sem experiência.
+Apoio: Diferencie evidência e necessidade lógica.
+
+q25-explicacao: Resposta: A regularidade é evidência relevante, mas explicações alternativas precisam ser examinadas.. Hume distingue regularidade de conexão necessária. Comparações e controles podem fortalecer inferências sem transformar indução em demonstração lógica.
+
+q26-pergunta: Uma pessoa realiza atos corajosos por instrução, mas não sabe avaliar quando correr riscos é apropriado. O que ainda falta segundo Aristóteles?
+Alternativas: A. Prudência prática articulada às disposições do caráter. | B. Uma regra universal que determine o risco exato. | C. Garantia de maximizar o bem-estar agregado. | D. Eliminação completa das emoções.
+Apoio: Compare hábito e discernimento.
+
+q26-explicacao: Resposta: Prudência prática articulada às disposições do caráter.. A phronesis orienta a deliberação nas circunstâncias concretas. Virtude não se reduz a obediência ou repetição mecânica.
+
+q27-pergunta: Uma plataforma classifica estudantes continuamente, levando-os a ajustar a própria conduta. Qual análise foucaultiana é mais consistente?
+Alternativas: A. Sem punição física não existe poder. | B. A classificação só reflete capacidades naturais. | C. Todo poder depende de ordem direta do Estado. | D. Exames e normas podem produzir condutas e sujeitos, além de reprimir.
+Apoio: Observe o que a classificação passa a produzir.
+
+q27-explicacao: Resposta: Exames e normas podem produzir condutas e sujeitos, além de reprimir.. Práticas disciplinares produzem normas e modos de subjetivação. A vigilância pode operar mesmo sem coerção física imediata.
+
+q28-pergunta: Uma pessoa refuta um argumento em favor de uma hipótese e conclui que a hipótese foi demonstrada falsa. Qual distinção foi ignorada?
+Alternativas: A. Entre premissa e proposição. | B. Entre sentido literal e figurado. | C. Entre refutar uma justificativa e demonstrar a falsidade de sua conclusão. | D. Entre validade formal e notação simbólica.
+Apoio: Separe o argumento da tese.
+
+q28-explicacao: Resposta: Entre refutar uma justificativa e demonstrar a falsidade de sua conclusão.. Um argumento defeituoso pode ter uma conclusão verdadeira. A hipótese ainda pode ter justificativas independentes.
+
+e05-pergunta: Uma universidade pode melhorar a média geral ou remover barreiras graves enfrentadas por um grupo menor. Qual questão caracteriza a justiça como equidade, em contraste com uma soma de benefícios?
+Alternativas: A. Qual programa gera a maior soma, independentemente da distribuição? | B. Qual programa é mais tradicional? | C. Como as oportunidades são distribuídas, especialmente entre os menos favorecidos? | D. Qual programa é administrativamente mais simples?
+Apoio: Compare total e distribuição.
+
+e05-explicacao: Resposta: Como as oportunidades são distribuídas, especialmente entre os menos favorecidos?. A justiça como equidade considera oportunidades justas e a posição dos menos favorecidos; totais agregados não são seu único critério.
+
+e06-pergunta: Uma escola considera monitorar mensagens privadas para reduzir conflitos. Qual análise deontológica é mais rigorosa?
+Alternativas: A. A intenção de reduzir conflitos basta para justificar o monitoramento. | B. É necessário avaliar autonomia, deveres e respeito às pessoas, não só o benefício esperado. | C. Se a maioria concordar, qualquer vigilância é justa. | D. A redução de incidentes é o único critério moral.
+Apoio: Examine os limites da ação.
+
+e06-explicacao: Resposta: É necessário avaliar autonomia, deveres e respeito às pessoas, não só o benefício esperado.. Deontologia examina deveres e princípios de ação. Benefícios não eliminam automaticamente as exigências de respeito e autonomia.
+
+e07-pergunta: Duas políticas produzem benefícios semelhantes. Uma impõe riscos a pessoas que não consentiram; a outra envolve participação voluntária. Qual objeção tensiona uma comparação apenas agregativa?
+Alternativas: A. Consentimento e distribuição dos riscos podem importar independentemente do total de benefícios. | B. Não é possível comparar nenhuma consequência. | C. Participação voluntária torna qualquer política perfeita. | D. Riscos pequenos não possuem relevância moral.
+Apoio: Quem assume os riscos? Pode escolher?
+
+e07-explicacao: Resposta: Consentimento e distribuição dos riscos podem importar independentemente do total de benefícios.. Totais semelhantes não implicam equivalência moral. Direitos, consentimento e distribuição podem ter importância independente.
+
+e08-pergunta: Você precisa proteger uma conversa confidencial, mas existe risco de dano grave a alguém. Qual procedimento exemplifica a prudência aristotélica?
+Alternativas: A. Romper sigilo sempre que existir qualquer risco. | B. Manter sigilo em qualquer circunstância. | C. Transferir a decisão à pessoa mais popular. | D. Deliberar sobre a gravidade do dano, deveres em conflito e alternativas proporcionais.
+Apoio: Identifique deveres e alternativas menos danosas.
+
+e08-explicacao: Resposta: Deliberar sobre a gravidade do dano, deveres em conflito e alternativas proporcionais.. A prudência permite deliberar sobre circunstâncias particulares e valores em tensão, sem aplicação mecânica de uma regra.
+
+c05-pergunta: Fora da caverna, duas interpretações explicam a origem das sombras igualmente bem. Qual próximo passo é mais consistente com a investigação?
+Alternativas: A. Adotar a interpretação mais antiga. | B. Buscar razões ou evidências capazes de distinguir as interpretações. | C. Considerar as duas interpretações necessariamente verdadeiras. | D. Escolher pela autoridade de quem apresentou a hipótese.
+Apoio: Procure uma razão discriminante.
+
+c05-explicacao: Resposta: Buscar razões ou evidências capazes de distinguir as interpretações.. Questionar aparências não garante conhecimento. O exame de razões pode distinguir explicações rivais.
+
+c06-pergunta: Você retorna e os prisioneiros aceitam uma conclusão correta apenas porque confiam em sua autoridade. O que permanece incompleto na dimensão educativa da alegoria?
+Alternativas: A. A verdade da conclusão deixa de existir. | B. O retorno deve ser evitado em todos os casos. | C. Toda confiança em testemunhos precisa ser eliminada. | D. A transformação do pensamento não se reduz à aceitação da fala de quem ensina.
+Apoio: Distingua concordar e compreender.
+
+c06-explicacao: Resposta: A transformação do pensamento não se reduz à aceitação da fala de quem ensina.. Aceitar uma conclusão correta não equivale a compreender suas razões ou desenvolver autonomia intelectual.
+
+c07-pergunta: Um grupo controla as projeções da caverna. Alguém propõe trocar quem controla as imagens. Qual crítica aprofunda o problema?
+Alternativas: A. Trocar os controladores pode manter intactas as estruturas que restringem acesso e questionamento. | B. Toda organização do conhecimento é necessariamente enganosa. | C. A identidade dos controladores é a única questão relevante. | D. A mudança resolve o problema se as imagens forem atraentes.
+Apoio: Observe a estrutura.
+
+c07-explicacao: Resposta: Trocar os controladores pode manter intactas as estruturas que restringem acesso e questionamento.. Importa investigar estruturas de poder, acesso, transparência e questionamento, não só quem ocupa uma posição.
+
+c08-pergunta: Após sair da caverna, você percebe que pode interpretar mal o que vê. Qual conclusão evita transformar sua nova perspectiva em dogma?
+Alternativas: A. Toda experiência sensível é falsa. | B. Toda crença nova é superior à antiga. | C. Superar uma ilusão exige exame contínuo; a própria interpretação também pode ser revista. | D. Sem infalibilidade, a investigação deve ser abandonada.
+Apoio: Questionar os outros não dispensa autocrítica.
+
+c08-explicacao: Resposta: Superar uma ilusão exige exame contínuo; a própria interpretação também pode ser revista.. Uma leitura filosófica da alegoria estimula a passagem da opinião ao conhecimento e o exame de nossas próprias certezas.
+
+l05-pergunta: Para abrir a porta, é necessário ter a chave ou o código. Você tem a chave, mas ignora outras exigências. O que se pode concluir?
+Alternativas: A. A porta abre necessariamente. | B. A ausência de código impede a abertura. | C. A condição necessária indicada está satisfeita, mas não há garantia de abertura. | D. A chave é necessária em todos os casos.
+Apoio: Identifique a direção da implicação.
+
+l05-explicacao: Resposta: A condição necessária indicada está satisfeita, mas não há garantia de abertura.. Abrir implica ter chave ou código. Satisfazer essa condição necessária não prova que seja suficiente.
+
+l06-pergunta: Todo argumento válido com premissas verdadeiras tem conclusão verdadeira. Um argumento válido possui conclusão falsa. O que se segue?
+Alternativas: A. Todas as premissas são falsas. | B. Ao menos uma premissa é falsa. | C. O argumento tem necessariamente uma única premissa. | D. A validade sempre garante conclusão verdadeira, independentemente das premissas.
+Apoio: A hipótese é validade, não solidez.
+
+l06-explicacao: Resposta: Ao menos uma premissa é falsa.. Validade preserva a verdade se todas as premissas forem verdadeiras. Com conclusão falsa e validade assumida, ao menos uma premissa é falsa.
+
+l07-pergunta: Se A é verdadeira, B é verdadeira. Se B é verdadeira, C é falsa. C é verdadeira. O que decorre das três premissas?
+Alternativas: A. A e B são falsas. | B. A é falsa, mas B é verdadeira. | C. A é verdadeira e B é falsa. | D. Nada se pode inferir sobre A nem B.
+Apoio: Resolva de trás para frente.
+
+l07-explicacao: Resposta: A e B são falsas.. C verdadeira exclui B verdadeira por modus tollens. B falsa exclui A verdadeira pela mesma inferência.
+
+l08-pergunta: Alguns filósofos são céticos. Nenhum cético aceita esta tese sem exame. Logo, alguns filósofos não aceitam esta tese sem exame. Qual avaliação é correta?
+Alternativas: A. Inválido porque a conclusão é particular. | B. Inválido porque o termo filósofo aparece duas vezes. | C. Válido apenas se todos os filósofos forem céticos. | D. Válido: pelo menos os filósofos céticos pertencem ao grupo que não aceita a tese sem exame.
+Apoio: Não transforme alguns em todos.
+
+l08-explicacao: Resposta: Válido: pelo menos os filósofos céticos pertencem ao grupo que não aceita a tese sem exame.. A existência de pelo menos um filósofo cético, junto à exclusão universal, implica a conclusão particular.
+
+NOVOS DESAFIOS CRONOLÓGICOS — não revelar datas nem ordem antes da resposta; sinalizar cada obra pelo nome, nunca por posição.
+
+t04-pergunta: Organize do mais antigo ao mais recente. Obras (ordem não cronológica): Locke publica Ensaio acerca do entendimento humano | Hume publica Investigação sobre o entendimento humano | Kant publica Crítica da razão pura | Descartes publica Meditações metafísicas | Hobbes publica Leviatã
+
+t04-explicacao: Descartes publica Meditações metafísicas → Hobbes publica Leviatã → Locke publica Ensaio acerca do entendimento humano → Hume publica Investigação sobre o entendimento humano → Kant publica Crítica da razão pura. Descartes antecede Hobbes e Locke; Hume influencia a reflexão crítica de Kant. As obras discutem fundamentos do conhecimento, autoridade e limites da razão.
+
+t05-pergunta: Organize do mais antigo ao mais recente. Obras (ordem não cronológica): Nietzsche publica Genealogia da moral | Beauvoir publica O segundo sexo | Foucault publica Vigiar e punir | Kant publica Fundamentação da metafísica dos costumes | Mill publica Utilitarismo em revista
+
+t05-explicacao: Kant publica Fundamentação da metafísica dos costumes → Mill publica Utilitarismo em revista → Nietzsche publica Genealogia da moral → Beauvoir publica O segundo sexo → Foucault publica Vigiar e punir. A sequência reúne dever, consequências, crítica genealógica, gênero e disciplina. Nietzsche é posterior a Mill e antecede Beauvoir; Foucault escreve mais tarde.
+
+t06-pergunta: Organize do mais antigo ao mais recente. Obras (ordem não cronológica): Rawls publica Uma teoria da justiça | Foucault publica Vigiar e punir | Lélia Gonzalez publica A categoria político-cultural de amefricanidade | Ailton Krenak publica Ideias para adiar o fim do mundo | Fanon publica Pele negra, máscaras brancas | Paulo Freire publica Pedagogia do oprimido em livro
+
+t06-explicacao: Fanon publica Pele negra, máscaras brancas → Paulo Freire publica Pedagogia do oprimido em livro → Rawls publica Uma teoria da justiça → Foucault publica Vigiar e punir → Lélia Gonzalez publica A categoria político-cultural de amefricanidade → Ailton Krenak publica Ideias para adiar o fim do mundo. Fanon antecede Freire e Rawls; Foucault e Gonzalez ampliam debates sobre poder e colonialidade; Krenak questiona o progresso em um contexto posterior.
+
+MEMÓRIA FILOSÓFICA — novas cartas de descrição
+
+memory-socrates-caso: Questionava crenças por meio do diálogo; não deixou textos próprios.
+
+memory-platao-caso: Investiga justiça, educação, conhecimento e a distinção entre opinião e saber.
+
+memory-aristoteles-caso: Discute a formação do caráter, a deliberação e a vida boa.
+
+memory-descartes-caso: Busca um fundamento seguro para o conhecimento por meio da dúvida.
+
+memory-hume-caso: Investiga a experiência e os limites da inferência causal.
+
+memory-kant-caso: Investiga princípios da ação moral e limites do conhecimento.
+
+memory-mill-caso: Defende o exame das consequências para a felicidade e discute liberdade individual.
+
+memory-beauvoir-caso: Analisa como condições históricas e sociais estruturam a existência e as possibilidades humanas.
+
+memory-sartre-caso: Discute responsabilidade, escolhas e má-fé no existencialismo.
+
+memory-foucault-caso: Analisa a produção de normas, saberes e sujeitos em instituições.
+
+memory-rawls-caso: Propõe princípios de justiça escolhidos em condições hipoteticamente imparciais.
+
+memory-gonzalez-caso: Interpreta relações entre racismo, gênero, cultura e colonialidade nas Américas.
+
+memory-krenak-caso: Questiona a separação entre humanidade e natureza e modelos únicos de progresso.
+
+memory-hountondji-caso: Questiona a redução de filosofias africanas a crenças coletivas fixas.
