@@ -1,0 +1,305 @@
+FILOSINAL — roteiro em português para tradução e validação humana em Libras
+
+Grave 9:16; enquadre rosto, tronco e mãos. Identifique as alternativas na ordem A, B, C e D. Nomeie arquivos conforme os códigos.
+
+duel-instrucoes: Escolha tema e nível, leia ou assista, responda no seu ritmo.
+
+memory-instrucoes: Selecione um pensador e uma ideia; procure seis pares.
+
+resultado: Parabéns por concluir a atividade. Consulte explicações e continue explorando.
+
+q01-pergunta: Uma pessoa acredita que o relógio marca 8h porque o vê parado nesse horário. Por coincidência, são exatamente 8h. O caso desafia principalmente qual ideia?
+Alternativas: A. Que toda crença verdadeira e aparentemente justificada constitui conhecimento. | B. Que toda observação é falsa. | C. Que o tempo só existe na imaginação. | D. Que a verdade depende de votação.
+Apoio: Pense na diferença entre acertar por sorte e saber por boas razões.
+
+q01-explicacao: Resposta: Que toda crença verdadeira e aparentemente justificada constitui conhecimento.. A coincidência mostra que uma crença verdadeira pode resultar de sorte. É um problema semelhante aos casos de Gettier: verdade e justificação podem não bastar para conhecimento.
+
+q02-pergunta: Uma pesquisadora muda sua hipótese quando encontra evidências incompatíveis. Qual atitude se aproxima da investigação crítica de Karl Popper?
+Alternativas: A. Coletar apenas exemplos que confirmem a hipótese. | B. Expor a hipótese a possíveis refutações. | C. Considerar qualquer hipótese igualmente científica. | D. Transformar a hipótese em certeza absoluta.
+Apoio: Uma teoria precisa poder ser colocada à prova.
+
+q02-explicacao: Resposta: Expor a hipótese a possíveis refutações.. Para Popper, teorias científicas precisam admitir testes que possam contradizê-las. Resistir a testes não equivale a provar uma teoria definitivamente.
+
+q03-pergunta: Descartes decide duvidar até das crenças que recebeu pelos sentidos. Qual é o papel dessa dúvida no seu método?
+Alternativas: A. Concluir que nada pode ser conhecido. | B. Defender que só a tradição garante a verdade. | C. Investigar se existe uma certeza que resista à dúvida. | D. Demonstrar que razão e experiência nunca se relacionam.
+Apoio: A dúvida é um meio de investigação, não necessariamente a conclusão.
+
+q03-explicacao: Resposta: Investigar se existe uma certeza que resista à dúvida.. A dúvida cartesiana é metódica: serve para procurar um fundamento seguro. O ato de pensar enquanto se duvida conduz ao cogito.
+
+q04-pergunta: Uma empresa usa dados pessoais sem consentimento e afirma que a prática beneficia a maioria dos clientes. Qual objeção é mais compatível com a filosofia moral de Kant?
+Alternativas: A. O lucro nunca pode existir. | B. As ações são corretas sempre que beneficiam a maioria. | C. A moral depende apenas da tradição local. | D. Pessoas não devem ser tratadas meramente como meios para alcançar um benefício.
+Apoio: Diferencie o resultado da ação do respeito às pessoas.
+
+q04-explicacao: Resposta: Pessoas não devem ser tratadas meramente como meios para alcançar um benefício.. A fórmula da humanidade exige respeitar pessoas como fins em si mesmas. Benefícios coletivos não eliminam a necessidade de respeitar autonomia e dignidade.
+
+q05-pergunta: Alguém devolve um dinheiro encontrado somente para aparecer em um vídeo e receber elogios. Qual distinção Kant faria?
+Alternativas: A. Agir conforme o dever não é necessariamente agir por dever. | B. Qualquer ação que siga uma regra tem o mesmo valor moral. | C. A ação deixa de existir se houver testemunhas. | D. O valor moral é medido apenas pela quantidade de elogios.
+Apoio: Uma ação pode parecer correta, mas qual é sua motivação?
+
+q05-explicacao: Resposta: Agir conforme o dever não é necessariamente agir por dever.. Kant distingue a conformidade externa ao dever da ação motivada pelo próprio dever. Uma ação correta pode ter uma motivação moralmente diferente.
+
+q06-pergunta: Uma comissão cria regras de distribuição de bolsas sem saber quem, entre seus integrantes, terá maior ou menor renda. Que conceito de John Rawls esse procedimento exemplifica?
+Alternativas: A. Vontade de potência. | B. Véu da ignorância. | C. Contrato baseado em privilégios hereditários. | D. Ditadura da maioria.
+Apoio: Imagine decidir regras sem saber se você será beneficiado ou prejudicado.
+
+q06-explicacao: Resposta: Véu da ignorância.. O véu da ignorância é um dispositivo hipotético para escolher princípios de justiça sem conhecer a própria posição social, reduzindo escolhas parciais.
+
+q07-pergunta: Uma instituição afirma que tratar todos exatamente da mesma maneira é suficiente para promover justiça. Qual exemplo apresenta a crítica mais consistente a essa posição?
+Alternativas: A. Proibir todos de participar. | B. Dar vantagens sem qualquer critério. | C. Oferecer Libras e materiais acessíveis para que estudantes tenham condições efetivas de participação. | D. Abolir toda regra de convivência.
+Apoio: O mesmo recurso pode não proporcionar as mesmas condições de acesso.
+
+q07-explicacao: Resposta: Oferecer Libras e materiais acessíveis para que estudantes tenham condições efetivas de participação.. Igualdade formal não garante igualdade de oportunidades. Recursos de acessibilidade enfrentam barreiras que atingem pessoas de maneiras distintas.
+
+q08-pergunta: Segundo Simone de Beauvoir, a ideia de que não se nasce mulher, torna-se mulher, questiona principalmente o quê?
+Alternativas: A. A existência de escolhas individuais. | B. A influência de toda experiência social. | C. A possibilidade de mudança histórica. | D. A naturalização dos papéis sociais como destino inevitável.
+Apoio: Separe características corporais de papéis construídos pela sociedade.
+
+q08-explicacao: Resposta: A naturalização dos papéis sociais como destino inevitável.. Beauvoir examina como relações sociais e históricas produzem expectativas de gênero. A frase não nega a existência do corpo, mas critica seu uso como destino social.
+
+q09-pergunta: Uma estudante afirma: “Não tenho escolha alguma, apenas ajo como esperam de mim”. Na perspectiva de Sartre, o que merece ser questionado?
+Alternativas: A. A tentativa de negar a responsabilidade por suas escolhas, mesmo em situações limitadas. | B. A existência de condições sociais concretas. | C. A necessidade de considerar outras pessoas. | D. A possibilidade de tomar decisões.
+Apoio: Ter limites não significa que todas as escolhas desaparecem.
+
+q09-explicacao: Resposta: A tentativa de negar a responsabilidade por suas escolhas, mesmo em situações limitadas.. Para Sartre, a liberdade é situada: há condições que não escolhemos, mas também responsabilidade pela maneira como respondemos a elas. Negar essa dimensão pode expressar má-fé.
+
+q10-pergunta: Uma instituição usa classificações, avaliações e vigilância constante para levar indivíduos a controlar o próprio comportamento. Qual leitura se aproxima de Michel Foucault?
+Alternativas: A. O poder só existe na figura de um rei. | B. O poder também opera por práticas disciplinares e produção de normas. | C. A vigilância sempre elimina todas as relações de poder. | D. As instituições são neutras por definição.
+Apoio: O poder pode agir pelas regras cotidianas, não só pela força.
+
+q10-explicacao: Resposta: O poder também opera por práticas disciplinares e produção de normas.. Foucault analisa mecanismos disciplinares que organizam corpos e condutas, inclusive quando as pessoas passam a vigiar a si mesmas.
+
+q11-pergunta: Ao avaliar uma decisão, uma gestora compara consequências para o bem-estar de todas as pessoas afetadas. Qual princípio aproxima seu raciocínio do utilitarismo?
+Alternativas: A. Valorizar somente a vantagem pessoal. | B. Considerar correto tudo que é legal. | C. Avaliar ações pelas consequências para o bem-estar agregado. | D. Ignorar o sofrimento se a intenção for boa.
+Apoio: Observe os efeitos da decisão para todos, não só para quem decide.
+
+q11-explicacao: Resposta: Avaliar ações pelas consequências para o bem-estar agregado.. O utilitarismo considera as consequências para o bem-estar dos afetados. Há debates sobre mensuração, direitos individuais e versões do utilitarismo.
+
+q12-pergunta: Dois colegas discordam de uma tese. Um deles responde: “Você é muito jovem, então seu argumento é falso”. Qual é o problema?
+Alternativas: A. É uma demonstração por contradição. | B. É uma conclusão dedutiva válida. | C. É uma generalização estatística necessária. | D. É um ataque à pessoa que não avalia a validade do argumento.
+Apoio: Criticar quem fala não é o mesmo que criticar o argumento.
+
+q12-explicacao: Resposta: É um ataque à pessoa que não avalia a validade do argumento.. O ad hominem substitui a análise de razões por uma desqualificação pessoal. A idade, isoladamente, não mostra se a tese é verdadeira.
+
+q13-pergunta: Uma pessoa experimenta repetidamente que dois acontecimentos ocorrem juntos e conclui que um causa necessariamente o outro. Qual crítica se aproxima de David Hume?
+Alternativas: A. A experiência mostra regularidades, mas não revela por si só uma conexão necessária. | B. A razão demonstra todas as causas sem experiência. | C. A repetição garante logicamente toda previsão futura. | D. Uma regularidade não pode ser observada.
+Apoio: Diferencie o que sempre foi observado do que precisa acontecer.
+
+q13-explicacao: Resposta: A experiência mostra regularidades, mas não revela por si só uma conexão necessária.. Hume problematiza a passagem da observação de regularidades para a necessidade causal. A expectativa resulta do hábito, não de uma demonstração lógica.
+
+q14-pergunta: Uma estudante quer desenvolver coragem. Em vez de evitar todo risco ou agir impulsivamente, aprende a avaliar situações e agir de forma adequada. Qual ideia de Aristóteles se manifesta?
+Alternativas: A. A virtude consiste sempre em dividir uma quantidade ao meio. | B. A virtude envolve hábitos e deliberação prática sobre a justa medida. | C. A coragem é a ausência de qualquer medo. | D. A felicidade depende apenas da riqueza.
+Apoio: A coragem não é covardia nem imprudência.
+
+q14-explicacao: Resposta: A virtude envolve hábitos e deliberação prática sobre a justa medida.. A ética aristotélica entende a virtude como disposição cultivada. O meio adequado depende da situação e da razão prática, não de uma média matemática.
+
+q15-pergunta: Um projeto educacional reconhece que saberes indígenas são desqualificados quando apenas tradições europeias são tratadas como universais. Qual questão filosófica se destaca?
+Alternativas: A. A impossibilidade de diálogo entre culturas. | B. A ausência de pensamento fora da Europa. | C. A relação entre poder, reconhecimento e produção de conhecimento. | D. A necessidade de aceitar qualquer ideia sem crítica.
+Apoio: Quem é reconhecido como produtor de conhecimento?
+
+q15-explicacao: Resposta: A relação entre poder, reconhecimento e produção de conhecimento.. A reflexão sobre injustiça epistêmica e colonialidade questiona hierarquias que excluem sujeitos e tradições da produção de conhecimento, sem abolir a avaliação crítica.
+
+q16-pergunta: Diante de uma obra, alguém afirma que ela provoca reflexão mesmo sem representar fielmente objetos do mundo. Qual conclusão é mais consistente?
+Alternativas: A. Toda arte precisa copiar a natureza. | B. Só é arte aquilo que é bonito. | C. Obras abstratas não produzem sentidos. | D. O valor estético pode envolver interpretação, forma e experiência além da imitação.
+Apoio: Arte pode provocar sentidos mesmo sem retratar objetos reconhecíveis.
+
+q16-explicacao: Resposta: O valor estético pode envolver interpretação, forma e experiência além da imitação.. A estética não se reduz à beleza ou à cópia fiel. Diferentes teorias discutem como forma, contexto, experiência e interpretação produzem significados.
+
+e01-pergunta: Um hospital tem recursos limitados. Um gestor propõe priorizar a política que minimiza o sofrimento total. Qual abordagem fundamenta melhor essa proposta?
+Alternativas: A. Utilitarismo. | B. Ceticismo radical. | C. Dualismo cartesiano. | D. Estética formalista.
+Apoio: Observe se o critério está no resultado, no dever ou na virtude.
+
+e01-explicacao: Resposta: Utilitarismo.. O argumento é consequencialista. Uma discussão completa também precisa considerar direitos, equidade, critérios clínicos e riscos de discriminação.
+
+e02-pergunta: Um colega divulga uma informação falsa para proteger a reputação do grupo. Qual questão seria central em uma análise kantiana?
+Alternativas: A. Quantas curtidas a postagem terá? | B. A máxima de mentir por conveniência poderia valer como lei universal? | C. A mentira tem aparência agradável? | D. O grupo possui mais membros?
+Apoio: Teste a regra da ação como se qualquer pessoa pudesse adotá-la.
+
+e02-explicacao: Resposta: A máxima de mentir por conveniência poderia valer como lei universal?. O imperativo categórico testa se a máxima pode ser universalizada sem contradição. Esta é uma análise da perspectiva kantiana, não uma resposta única a todo dilema.
+
+e03-pergunta: Uma escola mantém uma atividade sem Libras e afirma que ninguém foi excluído porque todos receberam o mesmo material. Qual resposta filosófica problematiza essa justificativa?
+Alternativas: A. Oferecer menos recursos a todos. | B. Trocar a atividade por uma prova oral. | C. Avaliar as condições materiais de participação, e não apenas a igualdade formal. | D. Desconsiderar a experiência dos estudantes.
+Apoio: Igualdade de materiais não é sempre igualdade de acesso.
+
+e03-explicacao: Resposta: Avaliar as condições materiais de participação, e não apenas a igualdade formal.. A distribuição idêntica de recursos não garante acesso igual. A justiça exige considerar barreiras e as condições efetivas de participação.
+
+e04-pergunta: Uma amiga pede que você compartilhe uma informação privada de outra pessoa para evitar um conflito no grupo. Que análise combina prudência aristotélica com a complexidade do caso?
+Alternativas: A. Obedecer sem considerar o contexto. | B. Escolher sempre o comportamento que traz mais popularidade. | C. Ignorar todas as responsabilidades. | D. Deliberar sobre contexto, danos, confiança e formas proporcionais de agir.
+Apoio: Pense em uma atitude proporcional e responsável à situação.
+
+e04-explicacao: Resposta: Deliberar sobre contexto, danos, confiança e formas proporcionais de agir.. A prudência prática envolve discernimento sobre situações particulares. É possível proteger a confiança e buscar alternativas, sem transformar a virtude em uma regra automática.
+
+c01-pergunta: Você vive em uma caverna e conhece apenas sombras projetadas na parede. Uma sombra se repete diariamente. O que faria para investigar sua origem?
+Alternativas: A. Observar padrões e procurar uma maneira de verificar o que produz as sombras. | B. Declarar que sombras são toda a realidade. | C. Proibir perguntas sobre a parede. | D. Concluir que nenhum conhecimento é possível.
+Apoio: Distinguir aparência de sua causa.
+
+c01-explicacao: Resposta: Observar padrões e procurar uma maneira de verificar o que produz as sombras.. Investigar a origem é um primeiro movimento de questionamento. Na alegoria, as sombras são uma imagem das aparências que tomamos como realidade.
+
+c02-pergunta: Você sai da caverna. A luz incomoda, mas aos poucos enxerga objetos. Qual interpretação corresponde melhor ao processo de educação em Platão?
+Alternativas: A. A aprendizagem é simplesmente acumular informações. | B. A educação envolve uma reorientação gradual do olhar e do pensamento. | C. A dor é prova de que a verdade não existe. | D. A visão física é suficiente para todo conhecimento.
+Apoio: A dificuldade representa uma transformação na compreensão.
+
+c02-explicacao: Resposta: A educação envolve uma reorientação gradual do olhar e do pensamento.. Na alegoria, a saída expressa um processo de formação: abandonar antigas certezas e dirigir a investigação para o inteligível.
+
+c03-pergunta: Ao voltar, os prisioneiros rejeitam seu relato. Qual questão a cena permite discutir?
+Alternativas: A. A impossibilidade definitiva de ensinar. | B. A superioridade natural de quem discordou. | C. As tensões entre conhecimento, tradição e responsabilidade política. | D. A certeza de que toda maioria está errada.
+Apoio: Considere a relação entre aprender e compartilhar o conhecimento.
+
+c03-explicacao: Resposta: As tensões entre conhecimento, tradição e responsabilidade política.. O retorno problematiza a responsabilidade de quem conhece e a resistência coletiva a mudanças. Não implica que toda opinião majoritária seja falsa.
+
+c04-pergunta: Agora alguém apresenta a alegoria como prova de que toda informação da internet é falsa. Que resposta é mais rigorosa?
+Alternativas: A. Concordar, pois toda imagem é uma mentira. | B. Desconsiderar Platão por ser antigo. | C. Substituir investigação por autoridade. | D. Usar a alegoria como metáfora para avaliar fontes, sem deduzir que tudo é falso.
+Apoio: Uma metáfora ajuda a pensar; não substitui a investigação.
+
+c04-explicacao: Resposta: Usar a alegoria como metáfora para avaliar fontes, sem deduzir que tudo é falso.. Metáforas filosóficas ajudam a interpretar problemas, mas não provam automaticamente uma generalização empírica. A crítica exige examinar evidências específicas.
+
+l01-pergunta: Porta 1: Se uma figura é um quadrado, então tem quatro lados. A figura tem quatro lados. Portanto, é um quadrado. Qual é o diagnóstico?
+Alternativas: A. A conclusão é inválida: afirmar o consequente. | B. A conclusão é válida por modus ponens. | C. A conclusão é válida por modus tollens. | D. A conclusão é verdadeira por definição.
+Apoio: Um retângulo que não é quadrado também tem quatro lados.
+
+l01-explicacao: Resposta: A conclusão é inválida: afirmar o consequente.. Outras figuras têm quatro lados. A forma P implica Q; Q; logo P não é válida.
+
+l02-pergunta: Porta 2: Se o código está correto, a porta abre. A porta não abriu. Considerando a premissa verdadeira, o que se segue?
+Alternativas: A. A porta abriu. | B. O código não está correto. | C. O código está correto. | D. A porta nunca pode abrir.
+Apoio: Se o código correto garantir abertura, uma porta fechada descarta essa condição.
+
+l02-explicacao: Resposta: O código não está correto.. A forma P implica Q; não Q; logo não P é o modus tollens, uma inferência válida dadas as premissas.
+
+l03-pergunta: Porta 3: Nenhum argumento circular é uma justificação independente. Algumas defesas são argumentos circulares. O que necessariamente se conclui?
+Alternativas: A. Toda defesa é circular. | B. Nenhuma defesa é uma justificação independente. | C. Algumas defesas não são justificações independentes. | D. Todos os argumentos são defensas.
+Apoio: A palavra “algumas” não autoriza concluir “todas”.
+
+l03-explicacao: Resposta: Algumas defesas não são justificações independentes.. A primeira premissa exclui todo argumento circular da classe das justificações independentes. Como algumas defesas são circulares, essas defesas estão fora dessa classe.
+
+l04-pergunta: Porta final: Uma pessoa afirma que só existem duas alternativas: aceitar sua tese integralmente ou abandonar o pensamento racional. Que falácia pode estar presente?
+Alternativas: A. Apelo à população. | B. Afirmação do consequente. | C. Generalização por amostra. | D. Falso dilema.
+Apoio: É possível discordar de uma parte da tese e continuar pensando racionalmente.
+
+l04-explicacao: Resposta: Falso dilema.. O falso dilema apresenta opções como se fossem exaustivas sem demonstrar que não existem alternativas intermediárias ou diferentes.
+
+t01-pergunta: Organize do mais antigo ao mais recente: Sócrates — diálogo e exame de crenças | Platão — teoria das formas e educação | Aristóteles — ética da virtude | Descartes — dúvida metódica
+
+t01-explicacao: Sócrates — diálogo e exame de crenças → Platão — teoria das formas e educação → Aristóteles — ética da virtude → Descartes — dúvida metódica. Sócrates influenciou Platão, que foi professor de Aristóteles. Descartes viveu na Europa moderna, muito depois da filosofia grega clássica.
+
+t02-pergunta: Organize do mais antigo ao mais recente: Hume publica Investigação sobre o entendimento humano (1748) | Kant publica Fundamentação da metafísica dos costumes (1785) | Mill publica Utilitarismo em revista (1861) | Beauvoir publica O segundo sexo (1949)
+
+t02-explicacao: Hume publica Investigação sobre o entendimento humano (1748) → Kant publica Fundamentação da metafísica dos costumes (1785) → Mill publica Utilitarismo em revista (1861) → Beauvoir publica O segundo sexo (1949). Os textos discutem conhecimento, dever, consequências e condições sociais da liberdade em momentos históricos diferentes.
+
+t03-pergunta: Organize do mais antigo ao mais recente: Rawls publica Uma teoria da justiça (1971) | Foucault publica Vigiar e punir (1975) | Gonzalez publica A categoria político-cultural de amefricanidade (1988) | Krenak publica Ideias para adiar o fim do mundo (2019)
+
+t03-explicacao: Rawls publica Uma teoria da justiça (1971) → Foucault publica Vigiar e punir (1975) → Gonzalez publica A categoria político-cultural de amefricanidade (1988) → Krenak publica Ideias para adiar o fim do mundo (2019). A filosofia contemporânea inclui debates sobre justiça distributiva, disciplina, colonialidade e relações com a natureza.
+
+memory-socrates-nome: Sócrates
+
+memory-socrates-ideia: Diálogo e exame crítico
+
+person-socrates: Sócrates. 469–399 a.C. (aprox.). Diálogo e exame crítico. Questionava crenças por meio do diálogo; não deixou textos próprios.. Platão, Apologia de Sócrates
+
+memory-platao-nome: Platão
+
+memory-platao-ideia: Aparência e inteligível
+
+person-platao: Platão. 427–347 a.C. (aprox.). Aparência e inteligível. Investiga justiça, educação, conhecimento e a distinção entre opinião e saber.. A República, livro VII
+
+memory-aristoteles-nome: Aristóteles
+
+memory-aristoteles-ideia: Virtude e prudência
+
+person-aristoteles: Aristóteles. 384–322 a.C.. Virtude e prudência. Discute a formação do caráter, a deliberação e a vida boa.. Ética a Nicômaco
+
+memory-descartes-nome: René Descartes
+
+memory-descartes-ideia: Dúvida metódica
+
+person-descartes: René Descartes. 1596–1650. Dúvida metódica. Busca um fundamento seguro para o conhecimento por meio da dúvida.. Meditações metafísicas
+
+memory-hume-nome: David Hume
+
+memory-hume-ideia: Causalidade e hábito
+
+person-hume: David Hume. 1711–1776. Causalidade e hábito. Investiga a experiência e os limites da inferência causal.. Investigação sobre o entendimento humano
+
+memory-kant-nome: Immanuel Kant
+
+memory-kant-ideia: Dever e autonomia
+
+person-kant: Immanuel Kant. 1724–1804. Dever e autonomia. Investiga princípios da ação moral e limites do conhecimento.. Fundamentação da metafísica dos costumes
+
+memory-mill-nome: John Stuart Mill
+
+memory-mill-ideia: Utilitarismo
+
+person-mill: John Stuart Mill. 1806–1873. Utilitarismo. Defende o exame das consequências para a felicidade e discute liberdade individual.. Utilitarismo
+
+memory-beauvoir-nome: Simone de Beauvoir
+
+memory-beauvoir-ideia: Liberdade e gênero
+
+person-beauvoir: Simone de Beauvoir. 1908–1986. Liberdade e gênero. Analisa como condições históricas e sociais estruturam a existência e as possibilidades humanas.. O segundo sexo
+
+memory-sartre-nome: Jean-Paul Sartre
+
+memory-sartre-ideia: Liberdade situada
+
+person-sartre: Jean-Paul Sartre. 1905–1980. Liberdade situada. Discute responsabilidade, escolhas e má-fé no existencialismo.. O existencialismo é um humanismo
+
+memory-foucault-nome: Michel Foucault
+
+memory-foucault-ideia: Poder disciplinar
+
+person-foucault: Michel Foucault. 1926–1984. Poder disciplinar. Analisa a produção de normas, saberes e sujeitos em instituições.. Vigiar e punir
+
+memory-rawls-nome: John Rawls
+
+memory-rawls-ideia: Justiça como equidade
+
+person-rawls: John Rawls. 1921–2002. Justiça como equidade. Propõe princípios de justiça escolhidos em condições hipoteticamente imparciais.. Uma teoria da justiça
+
+memory-gonzalez-nome: Lélia Gonzalez
+
+memory-gonzalez-ideia: Amefricanidade
+
+person-gonzalez: Lélia Gonzalez. 1935–1994. Amefricanidade. Interpreta relações entre racismo, gênero, cultura e colonialidade nas Américas.. A categoria político-cultural de amefricanidade
+
+memory-krenak-nome: Ailton Krenak
+
+memory-krenak-ideia: Natureza e modos de existência
+
+person-krenak: Ailton Krenak. 1953–. Natureza e modos de existência. Questiona a separação entre humanidade e natureza e modelos únicos de progresso.. Ideias para adiar o fim do mundo
+
+memory-hountondji-nome: Paulin Hountondji
+
+memory-hountondji-ideia: Filosofia africana e crítica
+
+person-hountondji: Paulin Hountondji. 1942–2024. Filosofia africana e crítica. Questiona a redução de filosofias africanas a crenças coletivas fixas.. African Philosophy: Myth and Reality
+
+term-verdade: Verdade. Conhecimento. Correspondência ou validade do que se afirma, conforme diferentes teorias.. Uma afirmação precisa ser examinada com razões e evidências.
+
+term-epistemologia: Epistemologia. Conhecimento. Área que investiga o conhecimento, suas condições e seus limites.. Como distinguir saber de acreditar?
+
+term-etica: Ética. Ética. Reflexão filosófica sobre ações, valores, deveres e modos de viver.. É correto divulgar uma informação privada para beneficiar um grupo?
+
+term-moral: Moral. Ética. Conjunto de costumes, valores e normas de um grupo ou indivíduo.. Normas sociais podem ser questionadas pela ética.
+
+term-autonomia: Autonomia. Ética. Capacidade de orientar a própria ação mediante razões e escolhas.. Decidir com acesso a informações compreensíveis.
+
+term-justica: Justiça. Política. Princípios para avaliar direitos, oportunidades e distribuição de recursos.. Oferecer Libras pode remover barreiras de participação.
+
+term-logica: Lógica. Lógica. Estudo de formas e critérios de raciocínio válido.. Uma conclusão deve seguir das premissas.
+
+term-falacia: Falácia. Lógica. Raciocínio defeituoso que pode parecer convincente.. Atacar quem fala não refuta o que foi dito.
+
+term-dialetica: Dialética. Conhecimento. Métodos de reflexão que examinam tensões, argumentos e contradições, em diferentes tradições.. Questionar uma tese e examinar objeções.
+
+term-estetica: Estética. Estética. Investigação filosófica da arte, do gosto e da experiência sensível.. Por que uma obra abstrata pode produzir sentidos?
+
+term-existencialismo: Existencialismo. Existência. Tradições que examinam existência concreta, liberdade e responsabilidade.. Como agir diante de escolhas difíceis?
+
+term-equidade: Equidade. Política. Ajuste de condições e recursos para enfrentar desigualdades relevantes.. Oferecer recursos acessíveis segundo barreiras identificadas.
+
+term-causalidade: Causalidade. Conhecimento. Relação entre causas e efeitos, objeto de diferentes teorias filosóficas.. Dois eventos ocorrerem juntos não basta para provar uma causa.
+
+term-utilitarismo: Utilitarismo. Ética. Família de teorias que avalia ações considerando consequências para o bem-estar.. Comparar impactos de uma decisão sobre os afetados.
+
+term-premissa: Premissa. Lógica. Proposição usada como razão em um argumento.. Todo quadrado tem quatro lados.
+
+term-imperativo: Imperativo categórico. Ética. Princípio kantiano que exige testar máximas independentemente de interesses particulares.. Uma regra de enganar poderia ser universalizada?

@@ -1,0 +1,1 @@
+Coloque nesta pasta os vídeos MP4 de interpretação humana e configure PUBLISHED_VIDEOS no index.html.
