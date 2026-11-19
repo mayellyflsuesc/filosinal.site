@@ -180,97 +180,97 @@ t01-pergunta: Organize do mais antigo ao mais recente: Sócrates — diálogo e 
 
 t01-explicacao: Sócrates — diálogo e exame de crenças → Platão — teoria das formas e educação → Aristóteles — ética da virtude → Descartes — dúvida metódica. Sócrates influenciou Platão, que foi professor de Aristóteles. Descartes viveu na Europa moderna, muito depois da filosofia grega clássica.
 
-t02-pergunta: Organize do mais antigo ao mais recente: Hume publica Investigação sobre o entendimento humano (1748) | Kant publica Fundamentação da metafísica dos costumes (1785) | Mill publica Utilitarismo em revista (1861) | Beauvoir publica O segundo sexo (1949)
+t02-pergunta: Organize do mais antigo ao mais recente: Hume publica Investigação sobre o entendimento humano | Kant publica Fundamentação da metafísica dos costumes | Mill publica Utilitarismo em revista | Beauvoir publica O segundo sexo
 
-t02-explicacao: Hume publica Investigação sobre o entendimento humano (1748) → Kant publica Fundamentação da metafísica dos costumes (1785) → Mill publica Utilitarismo em revista (1861) → Beauvoir publica O segundo sexo (1949). Os textos discutem conhecimento, dever, consequências e condições sociais da liberdade em momentos históricos diferentes.
+t02-explicacao: Hume publica Investigação sobre o entendimento humano → Kant publica Fundamentação da metafísica dos costumes → Mill publica Utilitarismo em revista → Beauvoir publica O segundo sexo. Os textos discutem conhecimento, dever, consequências e condições sociais da liberdade em momentos históricos diferentes.
 
-t03-pergunta: Organize do mais antigo ao mais recente: Rawls publica Uma teoria da justiça (1971) | Foucault publica Vigiar e punir (1975) | Gonzalez publica A categoria político-cultural de amefricanidade (1988) | Krenak publica Ideias para adiar o fim do mundo (2019)
+t03-pergunta: Organize do mais antigo ao mais recente: Rawls publica Uma teoria da justiça | Foucault publica Vigiar e punir | Gonzalez publica A categoria político-cultural de amefricanidade | Krenak publica Ideias para adiar o fim do mundo
 
-t03-explicacao: Rawls publica Uma teoria da justiça (1971) → Foucault publica Vigiar e punir (1975) → Gonzalez publica A categoria político-cultural de amefricanidade (1988) → Krenak publica Ideias para adiar o fim do mundo (2019). A filosofia contemporânea inclui debates sobre justiça distributiva, disciplina, colonialidade e relações com a natureza.
+t03-explicacao: Rawls publica Uma teoria da justiça → Foucault publica Vigiar e punir → Gonzalez publica A categoria político-cultural de amefricanidade → Krenak publica Ideias para adiar o fim do mundo. A filosofia contemporânea inclui debates sobre justiça distributiva, disciplina, colonialidade e relações com a natureza.
 
 memory-socrates-nome: Sócrates
 
 memory-socrates-ideia: Diálogo e exame crítico
 
-person-socrates: Sócrates. 469–399 a.C. (aprox.). Diálogo e exame crítico. Questionava crenças por meio do diálogo; não deixou textos próprios.. Platão, Apologia de Sócrates
+person-socrates: Sócrates. Conhecimento. Diálogo e exame crítico. Questionava crenças por meio do diálogo; não deixou textos próprios.. Platão, Apologia de Sócrates
 
 memory-platao-nome: Platão
 
 memory-platao-ideia: Aparência e inteligível
 
-person-platao: Platão. 427–347 a.C. (aprox.). Aparência e inteligível. Investiga justiça, educação, conhecimento e a distinção entre opinião e saber.. A República, livro VII
+person-platao: Platão. Conhecimento. Aparência e inteligível. Investiga justiça, educação, conhecimento e a distinção entre opinião e saber.. A República, livro VII
 
 memory-aristoteles-nome: Aristóteles
 
 memory-aristoteles-ideia: Virtude e prudência
 
-person-aristoteles: Aristóteles. 384–322 a.C.. Virtude e prudência. Discute a formação do caráter, a deliberação e a vida boa.. Ética a Nicômaco
+person-aristoteles: Aristóteles. Ética. Virtude e prudência. Discute a formação do caráter, a deliberação e a vida boa.. Ética a Nicômaco
 
 memory-descartes-nome: René Descartes
 
 memory-descartes-ideia: Dúvida metódica
 
-person-descartes: René Descartes. 1596–1650. Dúvida metódica. Busca um fundamento seguro para o conhecimento por meio da dúvida.. Meditações metafísicas
+person-descartes: René Descartes. Conhecimento. Dúvida metódica. Busca um fundamento seguro para o conhecimento por meio da dúvida.. Meditações metafísicas
 
 memory-hume-nome: David Hume
 
 memory-hume-ideia: Causalidade e hábito
 
-person-hume: David Hume. 1711–1776. Causalidade e hábito. Investiga a experiência e os limites da inferência causal.. Investigação sobre o entendimento humano
+person-hume: David Hume. Conhecimento. Causalidade e hábito. Investiga a experiência e os limites da inferência causal.. Investigação sobre o entendimento humano
 
 memory-kant-nome: Immanuel Kant
 
 memory-kant-ideia: Dever e autonomia
 
-person-kant: Immanuel Kant. 1724–1804. Dever e autonomia. Investiga princípios da ação moral e limites do conhecimento.. Fundamentação da metafísica dos costumes
+person-kant: Immanuel Kant. Ética. Dever e autonomia. Investiga princípios da ação moral e limites do conhecimento.. Fundamentação da metafísica dos costumes
 
 memory-mill-nome: John Stuart Mill
 
 memory-mill-ideia: Utilitarismo
 
-person-mill: John Stuart Mill. 1806–1873. Utilitarismo. Defende o exame das consequências para a felicidade e discute liberdade individual.. Utilitarismo
+person-mill: John Stuart Mill. Ética. Utilitarismo. Defende o exame das consequências para a felicidade e discute liberdade individual.. Utilitarismo
 
 memory-beauvoir-nome: Simone de Beauvoir
 
 memory-beauvoir-ideia: Liberdade e gênero
 
-person-beauvoir: Simone de Beauvoir. 1908–1986. Liberdade e gênero. Analisa como condições históricas e sociais estruturam a existência e as possibilidades humanas.. O segundo sexo
+person-beauvoir: Simone de Beauvoir. Existência. Liberdade e gênero. Analisa como condições históricas e sociais estruturam a existência e as possibilidades humanas.. O segundo sexo
 
 memory-sartre-nome: Jean-Paul Sartre
 
 memory-sartre-ideia: Liberdade situada
 
-person-sartre: Jean-Paul Sartre. 1905–1980. Liberdade situada. Discute responsabilidade, escolhas e má-fé no existencialismo.. O existencialismo é um humanismo
+person-sartre: Jean-Paul Sartre. Existência. Liberdade situada. Discute responsabilidade, escolhas e má-fé no existencialismo.. O existencialismo é um humanismo
 
 memory-foucault-nome: Michel Foucault
 
 memory-foucault-ideia: Poder disciplinar
 
-person-foucault: Michel Foucault. 1926–1984. Poder disciplinar. Analisa a produção de normas, saberes e sujeitos em instituições.. Vigiar e punir
+person-foucault: Michel Foucault. Política. Poder disciplinar. Analisa a produção de normas, saberes e sujeitos em instituições.. Vigiar e punir
 
 memory-rawls-nome: John Rawls
 
 memory-rawls-ideia: Justiça como equidade
 
-person-rawls: John Rawls. 1921–2002. Justiça como equidade. Propõe princípios de justiça escolhidos em condições hipoteticamente imparciais.. Uma teoria da justiça
+person-rawls: John Rawls. Política. Justiça como equidade. Propõe princípios de justiça escolhidos em condições hipoteticamente imparciais.. Uma teoria da justiça
 
 memory-gonzalez-nome: Lélia Gonzalez
 
 memory-gonzalez-ideia: Amefricanidade
 
-person-gonzalez: Lélia Gonzalez. 1935–1994. Amefricanidade. Interpreta relações entre racismo, gênero, cultura e colonialidade nas Américas.. A categoria político-cultural de amefricanidade
+person-gonzalez: Lélia Gonzalez. Política. Amefricanidade. Interpreta relações entre racismo, gênero, cultura e colonialidade nas Américas.. A categoria político-cultural de amefricanidade
 
 memory-krenak-nome: Ailton Krenak
 
 memory-krenak-ideia: Natureza e modos de existência
 
-person-krenak: Ailton Krenak. 1953–. Natureza e modos de existência. Questiona a separação entre humanidade e natureza e modelos únicos de progresso.. Ideias para adiar o fim do mundo
+person-krenak: Ailton Krenak. Política. Natureza e modos de existência. Questiona a separação entre humanidade e natureza e modelos únicos de progresso.. Ideias para adiar o fim do mundo
 
 memory-hountondji-nome: Paulin Hountondji
 
 memory-hountondji-ideia: Filosofia africana e crítica
 
-person-hountondji: Paulin Hountondji. 1942–2024. Filosofia africana e crítica. Questiona a redução de filosofias africanas a crenças coletivas fixas.. African Philosophy: Myth and Reality
+person-hountondji: Paulin Hountondji. Conhecimento. Filosofia africana e crítica. Questiona a redução de filosofias africanas a crenças coletivas fixas.. African Philosophy: Myth and Reality
 
 term-verdade: Verdade. Conhecimento. Correspondência ou validade do que se afirma, conforme diferentes teorias.. Uma afirmação precisa ser examinada com razões e evidências.
 
