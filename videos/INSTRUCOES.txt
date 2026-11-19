@@ -1,0 +1,12 @@
+FILOSINAL — PUBLICAÇÃO DE TRADUÇÕES EM LIBRAS
+
+O site público é somente para reprodução de vídeos: não existe formulário público de envio ou remoção. O GitHub autentica a conta e controla quem tem permissão de escrita no repositório.
+
+1. Consulte roteiro-libras.txt para identificar o código de cada gravação.
+2. Grave em MP4 (H.264), proporção 9:16, com mãos, tronco e rosto visíveis. Revise a tradução e obtenha autorização de uso de imagem para publicação pública.
+3. Na pasta videos do repositório, use Add file > Upload files, selecione o MP4 e confirme (Commit changes). Exemplo: videos/q01-pergunta.mp4. Para explicação: videos/q01-explicacao.mp4.
+4. A janela de Libras encontra automaticamente os MP4 com os códigos exatos após a publicação do GitHub Pages. Não é preciso editar HTML. Para endereços personalizados, a equipe pode usar PUBLISHED_VIDEOS no index.html.
+5. A proprietária autoriza colaboradores do GitHub em Settings > Collaborators. Uma conta de colaborador com permissão de escrita pode alterar outros arquivos do projeto, não somente vídeos. Se desejar revisar antes de publicar, receba os vídeos por um canal privado e publique-os pessoalmente.
+6. O repositório e os vídeos publicados são públicos; não envie gravações privadas ou sem autorização. Envio restrito não significa armazenamento privado. Nunca coloque senhas ou tokens no código.
+
+Arquivos de vídeo não são pré-cacheados para uso offline. Não há login administrativo no site nem banco de dados remoto nesta versão.
