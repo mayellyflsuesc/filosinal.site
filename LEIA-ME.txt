@@ -7,3 +7,5 @@ Acessibilidade: testar com usuários e tecnologias assistivas; não há certific
 VLIBRAS: acessibilidade.html integra o script oficial exclusivamente para orientações gerais de navegação, separado das atividades pedagógicas. Requer conexão com serviço externo. Os jogos permanecem preparados para vídeos de intérpretes humanos. Não habilitar o widget em questões ou aulas sem autorização expressa dos responsáveis pelo VLibras (termos: https://www.vlibras.gov.br/privacy.html).
 
 FILOSINAL TRANSLATOR: translator.html contém o protótipo independente de acervo (177 textos; 0 traduções aprovadas inicialmente). Consulte translator/README.md para autorização, cadastro e revisão. Não é tradução automática nem avatar funcional.
+
+BANCO DE VÍDEOS: videos-libras.html disponibiliza 12 referências públicas, com créditos, busca e player oficial ativado pelo usuário. Não equivale a tradução integral; nenhum MP4 de terceiros foi copiado. Requer internet.
