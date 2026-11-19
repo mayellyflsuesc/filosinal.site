@@ -1,0 +1,26 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>FiloSinal — Teste Rybená</title><style>body{background:#151226;color:#f8f4ff;font:17px/1.6 system-ui,sans-serif;margin:0}main{max-width:640px;margin:auto;padding:24px}h1{color:#f4d58e}button{font:inherit;font-weight:bold;background:#6343ad;color:white;border:1px solid #a995ea;border-radius:10px;padding:14px;cursor:pointer}button:disabled{opacity:.6;cursor:default}a{color:#d5c5ff}pre{white-space:pre-wrap;overflow-wrap:anywhere;background:#211b35;border-radius:12px;padding:14px}button:focus-visible,a:focus-visible{outline:3px solid #f4d58e;outline-offset:3px}</style></head><body><main><a href="./index.html">← Voltar aos jogos</a><h1>✦ Teste Rybená</h1><p>Esta página usa somente a API oficial em português, sem o código dos jogos e sem posicionamento customizado. Pressione o botão para enviar uma frase de teste ao serviço externo.</p><button id="test">Testar tradução em Libras</button><p><strong>Frase:</strong> Olá! Bem-vindo ao FiloSinal.</p><pre id="log" role="status" aria-live="polite">Teste ainda não iniciado.</pre><p>Se o avatar não aparecer, tire uma captura de tela do resultado. A presença da API não comprova que a licença está ativa nem que a tradução foi reproduzida.</p><p><a href="https://docs.rybena.com.br/docs/api/getting-started">Manual oficial da API</a></p></main><script>
+(function(){
+'use strict';
+const button=document.getElementById('test'),log=document.getElementById('log');
+let api=null,pending=false,script=null;
+function info(s){log.textContent+='\n'+s}
+function run(){try{api.openPlayer();api.switchToLibras();api.translate('Olá! Bem-vindo ao FiloSinal.');info('Comando de tradução enviado. Observe se o avatar aparece e sinaliza.')}catch(e){info('Falha ao abrir ou traduzir: '+(e.message||e.name))}button.disabled=false;pending=false}
+button.onclick=()=>{
+ if(pending)return;
+ log.textContent='Domínio: '+location.hostname+'\nConexão: '+(navigator.onLine?'online':'offline');
+ if(!navigator.onLine){info('Conecte-se à internet.');return}
+ if(api){run();return}
+ if(script){info('Uma tentativa anterior foi realizada. Recarregue a página antes de tentar novamente.');return}
+ pending=true;button.disabled=true;info('Carregando script oficial…');
+ let done=false;
+ const timer=setTimeout(()=>fail('A API não sinalizou prontidão em 30 segundos. Possíveis causas: rede, bloqueio do navegador ou serviço/licença; o teste não distingue essas causas.'),30000);
+ function fail(msg){if(done)return;done=true;clearTimeout(timer);pending=false;button.disabled=false;info(msg)}
+ script=document.createElement('script');
+ script.type='text/javascript';
+ script.src='https://cdn.rybena.com.br/dom/master/latest/rybena.js?mode=api&lang=ptBR';
+ script.onerror=()=>fail('Não foi possível baixar o script oficial. Verifique a conexão e bloqueadores.');
+ script.onload=()=>{if(done)return;info('Script recebido. Aguardando a API…');try{if(typeof RybenaApi==='undefined')throw Error('RybenaApi não está definida');const instance=RybenaApi.getInstance();instance.handleLoaded(()=>{if(done)return;done=true;clearTimeout(timer);api=instance;info('API informou que está pronta.');run()})}catch(e){fail('Falha na inicialização: '+(e.message||e.name))}};
+ document.head.appendChild(script);
+};
+})();
+</script></body></html>
