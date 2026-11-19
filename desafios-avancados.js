@@ -73,7 +73,7 @@
     }
     window.fsSetup='duel';
     inicioAnterior(id);
-    if(page==='play'&&session&&['cave','ethics','escape'].includes(id))iniciarEstado(session);
+    if(page==='play'&&session&&['cave','ethics','escape'].includes(id)){iniciarEstado(session);render(false);}
   };
   questionsSetup=function(){
     if(window.fsSetup==='memory'){
