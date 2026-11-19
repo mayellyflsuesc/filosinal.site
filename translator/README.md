@@ -1,0 +1,14 @@
+# FiloSinal Translator — versão experimental
+Um acervo próprio, com resolução por igualdade textual/código, sem API comercial. Não é uma tradução automática. O catálogo foi montado com os 177 códigos ativos do roteiro. Os 14 códigos antigos memory-*-ideia foram excluídos porque o jogo usa memory-*-caso. A página contextual restringe a consulta ao código exibido no jogo, evitando mostrar o catálogo de respostas antes da hora.
+## Fontes e permissões
+- SignBank da Libras: Quadros, R. Libras Signbank. Versão 2.0. 2023. https://signbank.levantelab.com.br/pt/about — CC BY-NC-SA 4.0. Fonte apenas de consulta nesta versão. Verificar autoria e condições de cada gravação antes de copiar, adaptar ou redistribuir.
+- Não foram coletados vídeos de influenciadores, nem extraídos movimentos de pessoas identificáveis. A equipe deve obter autorizações específicas para gravação, reprodução pública e extração/transformação de movimentos. A atribuição não substitui consentimento ou licença.
+## Cadastro de tradução (somente equipe autorizada do GitHub)
+1. Selecione um código e copie o texto completo de catalog.js. Grave o conteúdo em Libras com sinalizante fluente, respeitando as letras A–D. Nas linhas do tempo a lista deve identificar cada obra pelo nome, sem revelar a solução.
+2. Revise o vídeo com pessoa fluente em Libras, preferencialmente surda. Registre autorização, crédito (nome público autorizado) e identificação pública da revisão. Guarde termos assinados privadamente, nunca no repositório.
+3. Publique videos/CODIGO.mp4. Edite translator/approved-media.js conforme o exemplo comentado. O campo text precisa ser exatamente igual ao texto estático do catálogo; não são exibidos registros com aprovação ausente, texto divergente ou caminho externo.
+4. Aumente a revisão do CACHE em sw.js ao atualizar catálogo/manifesto. Teste em dispositivo real.
+## Pesquisa de movimento
+tools/extract_motion.py fornece um extrator experimental de pontos de pose, mãos e rosto (MediaPipe). Requer execução local, vídeos autorizados e revisão dos dados extraídos; não gera animações prontas nem tradução. Não subir quadros/landmarks sem verificar permissão para essa finalidade e risco de reidentificação. O avatar 3D, retargeting, transições, tradução gramatical e avaliação com sinalizantes são etapas futuras.
+## Testes desta mudança
+Sete testes do núcleo lógico: correspondência exata por texto e por código, texto desconhecido, aceite do registro de exemplo, rejeição de URL externa, texto divergente e status pendente. Nenhum exemplo fictício publicado. Reprodução real e captura de movimentos não testadas; não há mídia aprovada nesta versão.
