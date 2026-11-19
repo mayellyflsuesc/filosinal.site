@@ -1,11 +1,9 @@
 FILOSINAL 2.0 — site estático
-Abra index.html em um navegador. O site está preparado para GitHub Pages, sem dependências de compilação.
+Abra index.html em um navegador. O site está preparado para GitHub Pages, sem dependências de compilação. A versão pública é publicada a partir da branch main.
 LIBRAS: consulte videos/INSTRUCOES.txt e roteiro-libras.txt. A interface pública permite assistir, repetir e ampliar vídeos, mas não enviar arquivos. O envio é feito por contas autorizadas no GitHub. A publicação requer revisão humana da tradução e autorização de uso de imagem.
 Modo professor: seleção de questões, criação local e exportação CSV. Não há multiplayer, servidor de contas ou painel remoto. PWA: o conteúdo estático pode ficar disponível offline após a primeira visita; vídeos publicados não são pré-cacheados. Progresso e preferências ficam no navegador.
 Acessibilidade: testar com usuários e tecnologias assistivas; não há certificação WCAG.
 
 VLIBRAS: acessibilidade.html integra o script oficial exclusivamente para orientações gerais de navegação, separado das atividades pedagógicas. Requer conexão com serviço externo. Os jogos permanecem preparados para vídeos de intérpretes humanos. Não habilitar o widget em questões ou aulas sem autorização expressa dos responsáveis pelo VLibras (termos: https://www.vlibras.gov.br/privacy.html).
 
-RYBENÁ: integração programática preparada em index.html. A API requer licença válida: https://docs.rybena.com.br/docs/api/getting-started . RYBENA_AUTHORIZED=true: habilitado após a equipe informar que o fornecedor aceitou a solicitação. O funcionamento efetivo depende de o domínio estar liberado pela Rybená. Se a licença expirar, desativar a variável e atualizar a versão do cache (sw.js). O script oficial só é carregado por ação do usuário. Tradução sob demanda das questões originais, alternativas na ordem exibida, explicações somente após resposta, memória, cronologia na ordem da rodada e biblioteca/glossário; questões do modo professor não são enviadas. O player do fornecedor é externo à janela MP4. Não há geração de arquivos MP4 nem garantia de disponibilidade/precisão. Não publicar chaves privadas. Testar em computador e celular após liberação.
-
-FILOSINAL TRANSLATOR: translator.html contém o protótipo independente de acervo (177 textos; 0 traduções aprovadas inicialmente). Consulte translator/README.md para autorização, cadastro e revisão. A integração Rybená continua habilitada. Não é tradução automática nem avatar funcional.
+FILOSINAL TRANSLATOR: translator.html contém o protótipo independente de acervo (177 textos; 0 traduções aprovadas inicialmente). Consulte translator/README.md para autorização, cadastro e revisão. Não é tradução automática nem avatar funcional.
