@@ -170,7 +170,7 @@ Apoio: A palavra “algumas” não autoriza concluir “todas”.
 
 l03-explicacao: Resposta: Algumas defesas não são justificações independentes.. A primeira premissa exclui todo argumento circular da classe das justificações independentes. Como algumas defesas são circulares, essas defesas estão fora dessa classe.
 
-l04-pergunta: Porta final: Uma pessoa afirma que só existem duas alternativas: aceitar sua tese integralmente ou abandonar o pensamento racional. Que falácia pode estar presente?
+l04-pergunta: Porta 4: Uma pessoa afirma que só existem duas alternativas: aceitar sua tese integralmente ou abandonar o pensamento racional. Que falácia pode estar presente?
 Alternativas: A. Apelo à população. | B. Afirmação do consequente. | C. Generalização por amostra. | D. Falso dilema.
 Apoio: É possível discordar de uma parte da tese e continuar pensando racionalmente.
 
